@@ -1,6 +1,6 @@
-Über die Bestandtheile des Meteorsteines von Kaba in Ungarn.
+# Über die Bestandtheile des Meteorsteines von Kaba in Ungarn.
 
-Von dem e. M. Prof. F. Wöhler in Göttingen.
+## Von dem e. M. Prof. F. Wöhler in Göttingen.
 
 Die Fragmente von dem am 15. April 1857 bei Kaba in Ungarn gefallenen Meteoriten, die mir zur Analyse dienten, verdanke ich der Güte des Vorstandes des k. k. Hof-Mineralien-Cabinetes zu Wien, Hierrn Dr. Hörnes, der über das Phänomen des Falles und die äussere Beschaffenheit des Steines im XXXI. Bande der Sitzungsberichte der mathematisch - naturwissenschaftlichen Classe der kaiserl. Akademie eine nähere Beschreibung mitgetheilt hat. Seinem Wunsche, die Analyse vorzunehmen, entsprach ich um so lieber, als das in der That ganz ungewöhnliche Aussehen dieses Steines auf eine ungewöhnliche Zusammensetzung schliessen liess.
 
