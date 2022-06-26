@@ -9,7 +9,7 @@ English - PDF
 German - Plain Text  
 German - PDF  
 
-## Über die Bestandtheile des Meteorsteines von Kaba in Ungarn. (11. Nov. 1858)
+## Über die Bestandteile des Meteorsteines von Kaba in Ungarn. (11. Nov. 1858)
 
 English - Plain Text  
 English - PDF  
