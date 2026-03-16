@@ -13,7 +13,7 @@ German - PDF
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text](uber-bestandtheile-meteorsteines-kaba/full-text-german.md)  
+[German - Plain Text](uber-bestandtheile-meteorsteines-kaba/full-text-german.md) | [German - (GFM) Plain Text](uber-bestandtheile-meteorsteines-kaba/full-text-german-gfm.md)  
 [German - PDF](https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Wohler/wohler_kaba_1858_german-swab.pdf)    
 
 ## Über die Bestandteile des Meteorsteines vom Capland. (1859)
